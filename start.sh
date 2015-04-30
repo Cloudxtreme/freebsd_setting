@@ -1,3 +1,4 @@
+pkg install zsh vim curl wget
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 git clone https://github.com/altercation/vim-colors-solarized
 cd vim-colors-solarized/colors
